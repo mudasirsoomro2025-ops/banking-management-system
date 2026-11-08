@@ -1,0 +1,16 @@
+# Java build output
+bin/
+out/
+*.class
+
+# Runtime-generated serialized account data
+bank_accounts.dat
+
+# Eclipse metadata
+.classpath
+.project
+.settings/
+
+# OS/editor files
+.DS_Store
+*.swp
